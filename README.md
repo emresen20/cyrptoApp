@@ -1,6 +1,6 @@
 # cyrptoApp
 
-ShenCyrpto app;
+ShenCyrpto app with React-Native;
 
 Using realtime marketplace api;
 
